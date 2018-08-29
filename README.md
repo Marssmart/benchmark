@@ -22,7 +22,7 @@ Benchmarks use 3 enums
 >BigEnumBenchmark.enumSwitch                               200  thrpt  200  569,434 ± 21,448  ops/us
 >BigEnumBenchmark.enumSwitch                               399  thrpt  200  521,560 ± 27,748  ops/us
 
-![Big enum stats](https://github.com/Marssmart/benchmark/blob/master/src/main/resources/big_enum.jpg "Big enum stats")
+![Big enum stats](https://github.com/Marssmart/benchmark/blob/master/src/main/resources/results/enums/big_enum.jpg "Big enum stats")
 
 >LongNamesEnumBenchmark.enumEnumMapLookup                    0  thrpt  200  670,613 ± 41,131  ops/us
 >LongNamesEnumBenchmark.enumEnumMapLookup                  200  thrpt  200  750,033 ± 26,163  ops/us
@@ -34,7 +34,7 @@ Benchmarks use 3 enums
 >LongNamesEnumBenchmark.enumSwitch                         200  thrpt  200  590,794 ± 20,777  ops/us
 >LongNamesEnumBenchmark.enumSwitch                         399  thrpt  200  597,855 ± 23,285  ops/us
 
-![Long names enum stats](https://github.com/Marssmart/benchmark/blob/master/src/main/resources/long_enum.jpg "Long names enum stats")
+![Long names enum stats](https://github.com/Marssmart/benchmark/blob/master/src/main/resources/results/enums/long_enum.jpg "Long names enum stats")
 
 >SmallEnumBenchmark.enumEnumMapLookup                        0  thrpt  200  756,714 ± 28,788  ops/us
 >SmallEnumBenchmark.enumEnumMapLookup                        4  thrpt  200  783,142 ± 24,472  ops/us
@@ -46,5 +46,5 @@ Benchmarks use 3 enums
 >SmallEnumBenchmark.enumSwitch                               4  thrpt  200  732,764 ± 21,175  ops/us
 >SmallEnumBenchmark.enumSwitch                               9  thrpt  200  730,821 ± 25,498  ops/us
 
-![Small enum stats](https://github.com/Marssmart/benchmark/blob/master/src/main/resources/small_enum.jpg "Small enum stats")
+![Small enum stats](https://github.com/Marssmart/benchmark/blob/master/src/main/resources/results/enums/small_enum.jpg "Small enum stats")
 
